@@ -5,4 +5,4 @@
 🔭 Before that, I received my Master's Degree from [Nankai University](https://en.nankai.edu.cn/), supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net/cmm/).  
 🌱 My recent research interests mainly focus on 3D vision, open-vocabulary perception and multi-modal learning.  
 👯 I’m looking to collaborate on related topics.  
-📫 How to reach me: Email: yangcao.cs@gmail.com or WeChat: MrYangCS  
+📫 How to reach me: Email: yangcao.cs@gmail.com , Discord account: yangcao#9724 or WeChat ID: 85298328912
